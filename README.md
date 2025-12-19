@@ -217,12 +217,10 @@ npm install
 
 ---
 
-## 📄 Lisans
-
 Bu proje eğitim amaçlı geliştirilmiştir.
 
 
--127008055 Osman Yetkin
--1247008026 Kürşat Eren Uğantaş
--127008035 İlkmert Döner
+- 127008055 Osman Yetkin
+- 1247008026 Kürşat Eren Uğantaş
+- 127008035 İlkmert Döner
 
